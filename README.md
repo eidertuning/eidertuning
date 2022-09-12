@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋 soy CodeEider</h1>
-
 <h3 align="center">Un desarrollador apasionado de la Cuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eidertuning&label=Profile%20views&color=0e75b6&style=flat" alt="eidertuning" /> </p>
