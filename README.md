@@ -24,7 +24,7 @@
 <a href="https://twitter.com/eidertuning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eidertuning" height="30" width="40" /></a>
 <a href="https://fb.com/eider.ulloa.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eider.ulloa.3" height="30" width="40" /></a>
 <a href="https://instagram.com/eidertuning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eidertuning" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/GcwKZ8x4Pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GcwKZ8x4Pt" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/GcwKZ8x4Pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GcwKZ8x4Pt"(https://discord.gg/Jy7fmWHfFK)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
